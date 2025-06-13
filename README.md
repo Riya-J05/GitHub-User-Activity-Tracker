@@ -49,26 +49,26 @@ Unlike the basic version, this version features **event summaries per repository
         Welcome to the GitHub User Activity Tracker
 ------------------------------------------------------------
 
-Enter the username of the GitHub user you want to track: Riya-J05
-Pushed 14 commits to 2 repos
-        -- Pushed 9 commits to Riya-J05/Task-Taker
-        -- Pushed 5 commits to Riya-J05/hello-world
+- Enter the username of the GitHub user you want to track: Riya-J05
+- Pushed 14 commits to 2 repos
+    -    -- Pushed 9 commits to Riya-J05/Task-Taker
+    -    -- Pushed 5 commits to Riya-J05/hello-world
 
-Opened 4 pull requests in 2 repos
-        -- 1 pull requests closed in Riya-J05/Task-Taker
-        -- 1 pull requests opened in Riya-J05/Task-Taker
-        -- 1 pull requests closed in Riya-J05/hello-world
-        -- 1 pull requests opened in Riya-J05/hello-world
+- Opened 4 pull requests in 2 repos
+    -    -- 1 pull requests closed in Riya-J05/Task-Taker
+    -    -- 1 pull requests opened in Riya-J05/Task-Taker
+    -    -- 1 pull requests closed in Riya-J05/hello-world
+    -    -- 1 pull requests opened in Riya-J05/hello-world
 
-Handled 0 event issues in 0 repos
+- Handled 0 event issues in 0 repos
 
-Forked 0 repos
+- Forked 0 repos
 
-Watched 0 repos
+- Watched 0 repos
 
-Would you like to continue and track another user's GitHub activity? (y/n): n
+- Would you like to continue and track another user's GitHub activity? (y/n): n
 
-THANK YOU FOR USING GITHUB USER ACTIVITY PROGRAM! Exiting...
+- THANK YOU FOR USING GITHUB USER ACTIVITY PROGRAM! Exiting...
 
 ---
 
