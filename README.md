@@ -103,7 +103,7 @@ Unlike the basic version, this version features **event summaries per repository
 
 ## 🙌 Acknowledgments
 
-- This project is inspired by a beginner-level challenge listed on roadmap.sh, expanded with additional features and structure for better learning outcomes and real-world usability.
+- This project is inspired by a beginner-level challenge listed on roadmap.sh, expanded with additional features and structure for better learning outcomes and real-world usability. Project link: https://roadmap.sh/projects/github-user-activity
 
 ---
 
